@@ -27,7 +27,7 @@ A simple Python script that converts all PDF files in a folder to text files, wi
 2. Run the script - it will automatically attempt to install required dependencies:
    ```bash
    python pdf_to_text_converter.py
-```
+
 
 ### Option 2: Manual Install
 
