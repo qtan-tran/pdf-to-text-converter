@@ -112,7 +112,7 @@ Conversion complete: 2 succeeded, 1 failed
 
 ## Alternative PDF Parser
 
-If PyPDF2 doesn't extract text well from your PDFs (especially scanned documents or complex layouts), you can use `pdfplumber` instead:
+If PyPDF2 doesn't extract text well from your PDFs (especially with scanned documents or complex layouts), you can use `pdfplumber` instead:
 
 ### Install pdfplumber:
 
