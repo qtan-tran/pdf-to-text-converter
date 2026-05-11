@@ -1,6 +1,6 @@
 # PDF to Text Converter
 
-A simple Python script that converts all PDF files in a folder to text files, with automatic filename sanitization (spaces replaced by hyphens).
+A simple Python script that converts PDF files in a folder to text files, with automatic filename sanitization (spaces replaced by hyphens).
 
 ## Features
 
