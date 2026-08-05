@@ -8,7 +8,7 @@ A simple Python script that converts PDF files in a folder to text files, with a
 - 📝 **Text Extraction**: Extracts text content from PDF files using PyPDF2
 - 🔧 **Filename Sanitization**: Automatically replaces spaces with hyphens in output filenames
 - 🌍 **UTF-8 Support**: Handles international characters and special symbols
-- 🛡️ **Error Handling**: Continues processing remaining files even if one fails
+- 🛡️ **Error Handling**: Continues processing remaining files even if one  file fails
 - 📊 **Progress Reporting**: Shows conversion status and summary statistics
 - 🎯 **Flexible Input**: Specify target folder via command line or use current directory
 - 🔌 **Auto-install**: Attempts to install required dependencies automatically
