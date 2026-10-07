@@ -259,7 +259,7 @@ if __name__ == "__main__":
 
 ### Issue: Unicode encoding errors
 
-**Solution**: The script uses UTF-8 encoding by default, which handles most characters. If you encounter issues, you can modify the encoding in the `open()` calls.
+**Solution**: The script uses UTF-8 encoding (by default), which handles most characters. If you encounter issues, you can modify the encoding in the `open()` calls.
 
 ### Issue: PyPDF2 installation fails on some systems
 
