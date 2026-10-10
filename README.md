@@ -50,7 +50,7 @@ Convert all PDFs in the current directory:
 python pdf_to_text_converter.py
 ```
 
-### Convert PDFs from a Specific Folder
+### Convert PDF files from a Specific Folder
 
 **Linux/macOS:**
 
